@@ -1,3 +1,3 @@
 # shoplist
 
-- 仿马蜂窝APP
+仿马蜂窝APP

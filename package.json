@@ -4,7 +4,10 @@
   "description": "shoplist",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest",
+    "start": "node ./webpack/config/webpack.config.dev.js",
+    "dev": "npm start",
+    "build": "node ./webpack/config/webpack.config.pro.js"
   },
   "repository": {
     "type": "git",

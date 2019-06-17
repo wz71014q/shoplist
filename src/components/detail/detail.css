@@ -1,0 +1,21 @@
+.detailHome{
+  position: relative;
+  float: right;
+  width: 70%;
+  height: 100%;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+.blank{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 220px;
+  height: 125px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
